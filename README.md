@@ -11,4 +11,4 @@ Before running anything, first install Faster R-CNN and Attention OCR from their
 
 Make sure you are in the home directory (one level above the master directory for faster r-cnn and attention OCR). You can use your own dataset, or if you want to use our dataset, simply send us a message and we can provide you our dataset.
 
-[Overleaf report](https://www.overleaf.com/9891238nktzqsjtgqcs#/36248536/)
+[Report](https://www.dropbox.com/s/sdcbpcqihgrcn1r/report.pdf?dl=0)
